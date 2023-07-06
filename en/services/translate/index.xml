@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Translation on TREBE Language Technologies S.L.</title>
-    <link>https://trebehome.github.io/trebe/en/services/translate/</link>
+    <link>https://trebehome.github.io/trebe2/en/services/translate/</link>
     <description>Recent content in Translation on TREBE Language Technologies S.L.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://trebehome.github.io/trebe/en/services/translate/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://trebehome.github.io/trebe2/en/services/translate/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
